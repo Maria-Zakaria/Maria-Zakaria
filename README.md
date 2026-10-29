@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi there, I'm Maria Al-warafy 👋
 
-<!--
-**Maria-Zakaria/Maria-Zakaria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+💻 Computer Science student & Software Developer
+I develop cross-platform mobile apps using Flutter and web applications using Python & Django, turning ideas into practical technical solutions.
+🚀 Constantly learning and striving to enhance my coding skills.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- **Languages:** Dart, Flutter, Python, Django
+- **Frameworks:** Flutter Framework , HTML, CSS, JS
+- **Tools:** Git, Ai, VS Code
+- **Databases:** Django, MongoDB, SQL, PostgreSQL
+
+## Projects
+Here are some of my favorite projects that I've worked on:
+
+### [Project Name](link-to-repo)
+A brief description of the project, its purpose, and the technologies used.
+
+### [Another Project Name](link-to-repo)
+A brief description of the project, its purpose, and the technologies used.
+
+## Contributions
+I enjoy contributing to open-source projects. Here are some notable contributions:
+- [Repository Name](link-to-repo) - A brief description of the contribution.
+- [Another Repository Name](link-to-repo) - A brief description of the contribution.
+
+## Get in Touch
+- [LinkedIn](www.linkedin.com/in/maria-alwrafy)
+- [Email](mariaaahaj@gmail.com)
+
+Feel free to reach out if you have any questions or just want to connect!
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bxi4&show_icons=true&theme=radical)
