@@ -21,10 +21,6 @@ A brief description of the project, its purpose, and the technologies used.
 ### [Another Project Name](link-to-repo)
 A brief description of the project, its purpose, and the technologies used.
 
-## Contributions
-I enjoy contributing to open-source projects. Here are some notable contributions:
-- [Repository Name](link-to-repo) - A brief description of the contribution.
-- [Another Repository Name](link-to-repo) - A brief description of the contribution.
 
 ## Get in Touch
 - [LinkedIn](www.linkedin.com/in/maria-alwrafy)
